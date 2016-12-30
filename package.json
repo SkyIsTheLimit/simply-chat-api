@@ -1,0 +1,31 @@
+{
+  "name": "simply-chat-api",
+  "version": "0.0.1",
+  "description": "APIs for the Simply Chat application.",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyIsTheLimit/simply-chat-api.git"
+  },
+  "keywords": [
+    "simply",
+    "chat",
+    "api"
+  ],
+  "author": "Sandeep Prasad <s3g007@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SkyIsTheLimit/simply-chat-api/issues"
+  },
+  "homepage": "https://github.com/SkyIsTheLimit/simply-chat-api#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+  "engines": {
+    "node": "4.6.1"
+  }
+}
